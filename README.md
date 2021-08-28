@@ -80,4 +80,4 @@ Para que esse teste passe, você deve permitir que ao clicar no checkbox ao lado
 
 <br>
 
-**[Link do Desafio](**(https://www.notion.so/FAQ-Desafios-ddd8fcdf2339436a816a0d9e45767664)**)**
+**[Link do Desafio no Notion](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)**
